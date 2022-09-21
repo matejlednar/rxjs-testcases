@@ -33,6 +33,8 @@ Comment (disable) unused imports (test case files).
 
 Place your RxJS code inside the wrapper.
 ```
+// place RxJS imports here
+
 export function run() {
 
 // place your RxJS code here
