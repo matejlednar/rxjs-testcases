@@ -3,7 +3,7 @@ RxJS boilerplate for test cases.
 
 1. Run script (```npm start```).
 2. Create a test case file (JavaScript file) based on the template (template.js).
-3. Add RxJS code into the wrapper (template.js placeholder).
+3. Add RxJS code into the wrapper (replace placeholder).
 4. Import created test case file into the imports.js.
 
 ## File structure
